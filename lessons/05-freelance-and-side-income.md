@@ -1,4 +1,5 @@
 # Lesson 5: Freelance and side income (provisional tax)
+<!-- facts: Income tax brackets; Provisional tax deadlines -->
 
 ## By the end, the learner can
 

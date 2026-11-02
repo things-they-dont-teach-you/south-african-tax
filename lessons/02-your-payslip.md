@@ -1,4 +1,5 @@
 # Lesson 2: Reading your payslip
+<!-- facts: none -->
 
 ## By the end, the learner can
 

@@ -1,4 +1,5 @@
 # Lesson 1: How tax works in South Africa
+<!-- facts: Income tax brackets; Rebates; Tax thresholds -->
 
 ## By the end, the learner can
 
