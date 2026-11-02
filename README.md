@@ -3,6 +3,15 @@
 How personal tax works in South Africa, taught by your AI assistant: brackets, your payslip,
 filing a return, paying less tax legally, freelance income and dealing with SARS.
 
+> [!WARNING]
+> **Under development. Do not rely on this course yet.** The lessons have not been reviewed by a
+> registered tax practitioner and may contain mistakes. Confirm anything important on
+> [sars.gov.za](https://www.sars.gov.za).
+>
+> **Are you a tax practitioner?** We're looking for professionals to review these lessons.
+> [Offer to review](https://github.com/things-they-dont-teach-you/south-african-tax/issues/new?template=volunteer-reviewer.yml)
+> or use the [contact form](https://things-they-dont-teach-you.github.io/#contact).
+
 Part of [Things They Don't Teach You in School](https://github.com/things-they-dont-teach-you).
 Easiest start: the [enrol](https://github.com/things-they-dont-teach-you/enrol) repo, which sets
 up this course for you.
@@ -36,5 +45,7 @@ practitioner. Always confirm figures on [sars.gov.za](https://www.sars.gov.za) b
 
 ## Contributing
 
-Figures change every February. If one is out of date, open an issue or pull request with the
-SARS link.
+Figures change every February. If one is out of date,
+[report it](https://github.com/things-they-dont-teach-you/south-african-tax/issues/new?template=fix-lesson.yml)
+with the SARS link, or send a pull request. To build or change courses, start with the
+[staff-room](https://github.com/things-they-dont-teach-you/staff-room).
