@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Deduction versus credit: how much R1 000 saves you</title>
+  <desc id="d">A R1 000 deduction, such as a retirement annuity contribution, lowers taxable income, so for someone whose top bracket is 31% it saves R310. A R1 000 tax credit, such as the medical scheme fees credit, comes straight off the tax bill, so it saves the full R1 000.</desc>
+  <rect width="720" height="300" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Deduction vs credit: what R1 000 saves you</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Example: someone whose top tax bracket is 31%.</text>
+
+  <!-- scale: 520px = R1 000, x0 = 40 -->
+  <text x="40" y="106" font-size="15" font-weight="600" fill="#0b0b0b">R1 000 deduction (e.g. retirement annuity)</text>
+  <text x="40" y="126" font-size="13" fill="#52514e">lowers your taxable income, so saves your top rate: 31% × R1 000</text>
+  <rect x="40" y="136" width="161" height="34" rx="4" fill="#2a78d6"/>
+  <text x="211" y="159" font-size="16" font-weight="700" fill="#0b0b0b">saves R310</text>
+
+  <text x="40" y="206" font-size="15" font-weight="600" fill="#0b0b0b">R1 000 tax credit (e.g. medical scheme fees credit)</text>
+  <text x="40" y="226" font-size="13" fill="#52514e">comes straight off your tax bill, rand for rand</text>
+  <rect x="40" y="236" width="520" height="34" rx="4" fill="#eb6834"/>
+  <text x="570" y="259" font-size="16" font-weight="700" fill="#0b0b0b">saves R1 000</text>
+  <text x="40" y="290" font-size="12" fill="#52514e">Limits apply to both; see the course's facts and figures. Not tax advice.</text>
+</svg>

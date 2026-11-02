@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Provisional tax: when to pay</title>
+  <desc id="d">The tax year runs from 1 March to the end of February. The first provisional tax payment (IRP6) is due by 31 August, about half the year's estimated tax. The second is due by the last working day of February, for the rest. An optional third top-up payment can be made by 30 September, after the year ends, to reduce interest if you underestimated.</desc>
+  <rect width="720" height="320" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Provisional tax: when to pay</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">For freelance, rental or business income that has no PAYE taken off.</text>
+
+  <!-- axis: Mar to Oct of the next year; 32px per month, x0 = 60 -->
+  <rect x="60" y="150" width="384" height="34" rx="4" fill="#2a78d6"/>
+  <text x="72" y="172" font-size="14" font-weight="600" fill="#ffffff">Tax year: 1 March to end of February</text>
+
+  <g stroke="#0b0b0b" stroke-width="2">
+    <line x1="252" y1="112" x2="252" y2="148"/><line x1="252" y1="186" x2="252" y2="200"/>
+    <line x1="444" y1="112" x2="444" y2="148"/><line x1="444" y1="186" x2="444" y2="200"/>
+    <line x1="668" y1="112" x2="668" y2="200" stroke-dasharray="5 4"/>
+  </g>
+  <g fill="#eb6834" stroke="#fcfcfb" stroke-width="2">
+    <circle cx="252" cy="112" r="8"/><circle cx="444" cy="112" r="8"/><circle cx="668" cy="112" r="8" fill="#fcfcfb" stroke="#eb6834"/>
+  </g>
+  <g font-size="14" fill="#0b0b0b" text-anchor="middle">
+    <text x="252" y="92" font-weight="700">1st payment</text>
+    <text x="444" y="92" font-weight="700">2nd payment</text>
+    <text x="700" y="92" font-weight="700" text-anchor="end">Optional top-up</text>
+  </g>
+  <g font-size="13" fill="#52514e" text-anchor="middle">
+    <text x="252" y="220">by 31 August</text><text x="252" y="238">about half the year's tax</text>
+    <text x="444" y="220">by last working day</text><text x="444" y="238">of February: the rest</text>
+    <text x="700" y="220" text-anchor="end">by 30 September</text><text x="700" y="238" text-anchor="end">if you underestimated</text>
+  </g>
+  <g font-size="12" fill="#52514e" text-anchor="middle">
+    <text x="60" y="270">Mar</text><text x="188" y="270">Jul</text><text x="316" y="270">Nov</text>
+    <text x="444" y="270">Mar</text><text x="572" y="270">Jul</text><text x="668" y="270">Oct</text>
+  </g>
+  <text x="40" y="300" font-size="12" fill="#52514e">Each payment is made with an IRP6 return. Source: SARS provisional tax. Not tax advice.</text>
+</svg>

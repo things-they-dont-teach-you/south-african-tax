@@ -10,6 +10,8 @@
 
 ## Key ideas
 
+![When you file: the tax year runs March to February, and filing season opens the following July](../diagrams/03-filing-timeline.svg)
+
 **Filing season** is when SARS accepts returns (the ITR12) for the tax year that just ended.
 Dates differ for auto-assessed people, non-provisional and provisional taxpayers; see `facts.md`.
 

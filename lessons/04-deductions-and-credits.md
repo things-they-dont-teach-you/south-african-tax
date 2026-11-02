@@ -10,6 +10,8 @@
 
 ## Key ideas
 
+![A R1 000 deduction saves R310 at a 31% rate; a R1 000 credit saves R1 000](../diagrams/04-deduction-vs-credit.svg)
+
 **Deduction vs credit.** A deduction lowers your taxable income, so it saves you your marginal
 rate (26% of a deduction saves 26c in the rand at that bracket). A credit comes straight off your
 tax, rand for rand.

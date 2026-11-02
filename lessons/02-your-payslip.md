@@ -9,6 +9,8 @@
 
 ## Key ideas
 
+![From gross pay to net pay: PAYE, UIF, retirement fund and medical aid come off before your pay lands](../diagrams/02-payslip.svg)
+
 **Gross pay** is what you earn before deductions. **Net pay** is what lands in your account.
 
 **PAYE** (Pay As You Earn) is income tax your employer takes from each payslip and pays to SARS

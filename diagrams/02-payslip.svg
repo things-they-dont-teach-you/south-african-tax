@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">From gross pay to net pay</title>
+  <desc id="d">Gross pay is what you earn. Your employer takes off PAYE (income tax, paid to SARS for you), UIF (1% from you, and 1% more from your employer), retirement fund contributions and medical aid. What is left is net pay, which lands in your account. After the tax year your employer gives you and SARS an IRP5.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="400" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">From gross pay to net pay</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">The usual lines on a South African payslip.</text>
+
+  <rect x="40" y="150" width="150" height="90" rx="8" fill="#2a78d6"/>
+  <text x="115" y="188" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">Gross pay</text>
+  <text x="115" y="210" font-size="13" fill="#ffffff" text-anchor="middle">what you earn</text>
+
+  <line x1="196" y1="195" x2="244" y2="195" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <g font-size="14" fill="#0b0b0b">
+    <rect x="250" y="92" width="240" height="56" rx="8" fill="#ffffff" stroke="#eb6834" stroke-width="2"/>
+    <text x="264" y="116" font-weight="700">− PAYE</text>
+    <text x="264" y="136" fill="#52514e">income tax, paid to SARS for you</text>
+    <rect x="250" y="156" width="240" height="56" rx="8" fill="#ffffff" stroke="#eb6834" stroke-width="2"/>
+    <text x="264" y="180" font-weight="700">− UIF</text>
+    <text x="264" y="200" fill="#52514e">1% from you (employer adds 1%)</text>
+    <rect x="250" y="220" width="240" height="56" rx="8" fill="#ffffff" stroke="#d9d8d3" stroke-width="2"/>
+    <text x="264" y="244" font-weight="700">− Retirement fund</text>
+    <text x="264" y="264" fill="#52514e">your money, saved; can reduce tax</text>
+    <rect x="250" y="284" width="240" height="56" rx="8" fill="#ffffff" stroke="#d9d8d3" stroke-width="2"/>
+    <text x="264" y="308" font-weight="700">− Medical aid</text>
+    <text x="264" y="328" fill="#52514e">if you're on one; gives a tax credit</text>
+  </g>
+
+  <line x1="496" y1="195" x2="530" y2="195" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="536" y="150" width="160" height="90" rx="8" fill="#1baf7a"/>
+  <text x="616" y="188" font-size="17" font-weight="700" fill="#0b0b0b" text-anchor="middle">Net pay</text>
+  <text x="616" y="210" font-size="13" fill="#0b0b0b" text-anchor="middle">lands in your account</text>
+
+  <text x="40" y="374" font-size="13" fill="#52514e">Orange: deductions the law requires. Grey: deductions you or your employer chose.</text>
+  <text x="40" y="392" font-size="12" fill="#52514e">After the tax year, your employer gives you and SARS an IRP5 showing your pay and PAYE.</text>
+</svg>
