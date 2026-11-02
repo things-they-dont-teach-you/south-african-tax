@@ -1,4 +1,5 @@
 # Lesson 4: Paying less tax, legally
+<!-- facts: Medical scheme fees tax credit; Retirement fund contributions; Tax-free savings accounts -->
 
 ## By the end, the learner can
 

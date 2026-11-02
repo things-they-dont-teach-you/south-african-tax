@@ -1,4 +1,5 @@
 # Lesson 3: Filing your tax return
+<!-- facts: Filing season -->
 
 ## By the end, the learner can
 

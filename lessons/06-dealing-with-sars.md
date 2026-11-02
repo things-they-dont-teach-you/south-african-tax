@@ -1,4 +1,5 @@
 # Lesson 6: Dealing with SARS, and spotting scams
+<!-- facts: none -->
 
 ## By the end, the learner can
 
