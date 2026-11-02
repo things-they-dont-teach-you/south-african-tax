@@ -11,6 +11,7 @@ it must not be relied on for real tax decisions yet, and they should confirm any
 sars.gov.za or with a registered tax practitioner. If they are a tax professional, invite them to
 help review it: https://things-they-dont-teach-you.github.io/#contribute
 
+<!-- terminal-only -->
 ## Before you start
 
 1. Read `../profile.md` if it exists. It holds the learner's survey answers: their situation
@@ -22,6 +23,8 @@ help review it: https://things-they-dont-teach-you.github.io/#contribute
    points somewhere else; someone with a provisional tax deadline next week should start with
    lesson 5.
 
+<!-- /terminal-only -->
+
 ## How to teach
 
 - Teach one lesson at a time, from `lessons/`. Each lesson lists what the learner should be able
@@ -29,8 +32,10 @@ help review it: https://things-they-dont-teach-you.github.io/#contribute
 - Explain in short chunks, then check understanding with a question or a small exercise before
   moving on. Use rand examples that fit the learner's situation.
 - Let them steer. If they ask about something off the lesson, answer it, then come back.
+<!-- terminal-only -->
 - When a lesson is done, add a line to `my-work/progress.md` (create it if needed) with the date,
   the lesson, and anything they found hard. Learners can also keep their own notes in `my-work/`.
+<!-- /terminal-only -->
 
 ## Accuracy rules
 
