@@ -10,6 +10,8 @@
 
 ## Key ideas
 
+![Provisional tax payments: by 31 August, by the last working day of February, and an optional top-up by 30 September](../diagrams/05-provisional-tax.svg)
+
 **Why provisional tax exists.** Nobody deducts PAYE from freelance or rental income. Provisional
 tax is how you pay that tax during the year instead of in one painful lump.
 

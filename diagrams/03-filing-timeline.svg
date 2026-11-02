@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">When you file your tax return</title>
+  <desc id="d">The tax year runs from 1 March to the end of February. Filing season for that year opens the following July: auto-assessments come first, in early July; then individuals who are not provisional taxpayers file from mid-July to late October; provisional taxpayers have until late January. Exact dates change each year.</desc>
+  <rect width="720" height="340" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">When you file your tax return</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Months are typical; check this year's exact dates on sars.gov.za.</text>
+
+  <!-- axis: 23 months from Mar (year 1) to Jan (year 3); 26px per month, x0 = 60 -->
+  <g stroke="#e6e5e0">
+    <line x1="60" y1="96" x2="60" y2="268"/><line x1="372" y1="96" x2="372" y2="268"/><line x1="658" y1="96" x2="658" y2="268"/>
+  </g>
+  <rect x="60" y="104" width="310" height="34" rx="4" fill="#2a78d6"/>
+  <text x="72" y="126" font-size="14" font-weight="600" fill="#ffffff">Tax year: 1 March to end of February</text>
+
+
+  <rect x="476" y="152" width="10" height="28" rx="4" fill="#eb6834"/>
+  <text x="494" y="171" font-size="14" fill="#0b0b0b">Auto-assessments (early July)</text>
+  <rect x="476" y="190" width="86" height="28" rx="4" fill="#eb6834"/>
+  <text x="570" y="209" font-size="14" fill="#0b0b0b">Most people</text>
+  <text x="570" y="225" font-size="12" fill="#52514e">mid-Jul to late Oct</text>
+  <rect x="476" y="236" width="166" height="28" rx="4" fill="#eb6834"/>
+  <text x="472" y="255" font-size="14" fill="#0b0b0b" text-anchor="end">Provisional taxpayers: to late Jan</text>
+
+  <g font-size="12" fill="#52514e" text-anchor="middle">
+    <text x="60" y="290">Mar</text><text x="164" y="290">Jul</text><text x="268" y="290">Nov</text>
+    <text x="372" y="290">Mar</text><text x="476" y="290">Jul</text><text x="580" y="290">Nov</text><text x="658" y="290">Jan</text>
+  </g>
+  <text x="60" y="308" font-size="12" fill="#52514e">Year 1</text>
+  <text x="372" y="308" font-size="12" fill="#52514e">Year 2</text>
+  <text x="658" y="308" font-size="12" fill="#52514e" text-anchor="middle">Year 3</text>
+  <text x="40" y="330" font-size="12" fill="#52514e">Blue: the year you earn. Orange: when you file for it. Source: SARS filing season. Not tax advice.</text>
+</svg>

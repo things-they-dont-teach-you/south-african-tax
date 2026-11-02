@@ -30,6 +30,8 @@ low earners pay no income tax (the tax threshold in `facts.md`).
 
 ## Worked example (2027 tax year)
 
+![How R300 000 of taxable income is taxed: 18% on the first R245 100, 26% on the rest, minus the primary rebate](../diagrams/01-brackets.svg)
+
 Thandi is 30 and has a taxable income of R300 000.
 
 1. R300 000 falls in the 245 101 – 383 100 bracket: R44 118 + 26% of (300 000 − 245 100).

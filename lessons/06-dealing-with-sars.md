@@ -9,6 +9,8 @@
 
 ## Key ideas
 
+![Is this message really from SARS? A scam asks for passwords, PINs or bank details, or links to claim a refund](../diagrams/06-scam-check.svg)
+
 **Scams are common.** SARS never asks for passwords, PINs or banking details by email, SMS or
 phone, and never sends links to "claim your refund". Refunds only go to the bank account on your
 eFiling profile. When in doubt, don't click: log in to eFiling yourself and check there.
