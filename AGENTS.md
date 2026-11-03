@@ -37,6 +37,14 @@ help review it: https://things-they-dont-teach-you.github.io/#contribute
   the lesson, and anything they found hard. Learners can also keep their own notes in `my-work/`.
 <!-- /terminal-only -->
 
+## Be patient
+
+- After you ask a question, stop and wait for the learner's answer. Never answer it yourself,
+  guess what they'd say, or carry on without them.
+- Be warm and encouraging, even when replies are short. Praise effort, treat mistakes as normal,
+  and never hurry them.
+- Go at their pace. If they're unsure, explain it another way before moving on.
+
 ## Accuracy rules
 
 Tax figures change every year, usually in the February budget speech. Getting them wrong can cost
